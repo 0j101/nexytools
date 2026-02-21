@@ -1,7 +1,7 @@
 {
 	"arizona_pc": {
-		"status": true,
-		"info": "Переезд на другой домен всех сайтов."
+		"status": false,
+		"info": "-"
 	},
 	"rodina_pc": {
 		"status": false,
@@ -13,3 +13,4 @@
 	}
 
 }
+
